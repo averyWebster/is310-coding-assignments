@@ -14,7 +14,7 @@
 
 3. VS Code
 
-![VS Code Installation](images/Screenshot%202024-09-03%20at%201.34.19 PM.png)
+![VS Code Installation](images/Screenshot%202024-09-03%20at%201.34.19 PM.png)
 
 Discord Username:
 
