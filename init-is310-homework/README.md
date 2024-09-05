@@ -1,4 +1,4 @@
-# Avery Webster
+#### Avery Webster
 
 # Init IS 310 Homework
 
@@ -6,15 +6,15 @@
 
 1. Python
 
-![Python Installation](images/Screenshot%202024-08-30%20at%2010.11.04 AM.png)
+    1. ![Python Installation](images/Screenshot%202024-08-30%20at%2010.11.04 AM.png)
 
 2. Git
 
-![Git Installation](images/Screenshot%202024-08-30%20at%2010.50.24 AM.png)
+    2. ![Git Installation](images/Screenshot%202024-08-30%20at%2010.50.24 AM.png)
 
 3. VS Code
 
-![VS Code Installation](images/Screenshot%202024-09-03%20at%201.34.19 PM.png)
+    3. ![VS Code Installation](images/Screenshot%202024-09-03%20at%201.34.19 PM.png)
 
 Discord Username:
 
