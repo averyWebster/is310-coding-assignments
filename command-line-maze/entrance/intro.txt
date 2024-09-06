@@ -1,1 +1,1 @@
-Welcome to the maze! Make sure to stay on the right path, and enjoy!
+Welcome to the maze! Make sure to stay on the right path by choosing left or right. Enjoy!
