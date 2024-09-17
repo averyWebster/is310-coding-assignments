@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Source and Style</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f0f0f0;
+            margin: 20x;
+        }
+        h1 {
+            color: #333;
+        }
+        .content {
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>First HTML Page! You can click on this!</h1>
+    <div class="'content">
+        <p>This is the paragraph for my first HTML page! I'm not sure what I should write here, 
+            so I'm just going to ramble on to at least fill up a bit of the page.
+        </p>
+        <ul>
+            <li>Here is a list of fruits for some reason</li>
+            <li>Apples</li>
+            <li>Oranges</li>
+            <li>Bananas</li>
+            <li>Kiwi</li>
+            <li>Mango</li>
+            <li>Grapes</li>
+            <li>I'm too lazy to continue</li>
+        </ul>
+        <a href="https://www.espn.com" target="h_blank">link</a>
+    </div>
+    <script>
+        document.querySelector('h1').onclick = function() {
+            alert('You clicked on this!')
+        };
+    </script>
+</body>
