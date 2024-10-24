@@ -1,0 +1,5 @@
+## Darth Vader Search
+
+For this assignment, I used the Europeana API and the SWAPI API (for Star Wars data). The SWAPI API is really easy to navigate through. It doesn't require any keys to use. THe only challenging part is finding out what to search for. They don't actually include the names for things. If you search is https://swapi.dev/api/people/1, it will show the data for Luke Skywalker. However, there is nothing in the search that indicates it is Luke Skywalker. In order to find the character, planet, ship, etc. you need to figure out your exact url on the website.
+
+I chose this API because I am interested in the movies and entertainment industry. I tried searching for different characters, but the information on Europeana was essentially nothing, so I settled on searching for Darth Vader, since he is such an iconic character.
