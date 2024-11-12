@@ -7,8 +7,6 @@ import pandas as pd
 import pyeuropeana.apis as apis
 import pyeuropeana.utils as utils
 import json
-
-apikey.save("EUROPEANA_API_KEY", "whianzape")
 europeana_api_key = apikey.load("EUROPEANA_API_KEY")
 os.environ['EUROPEANA_API_KEY'] = europeana_api_key
 def fetch_darth_vader_data():
